@@ -21,12 +21,7 @@ public class ApiSchemImpl implements ApiSchemService {
         String idloc = string.substring(string.length() - 1);
         Location location = service.getLoc(idloc);
         Root root = new Root();
-        int count = 0;
-        for (int i = 0; i < character.getEpisode().length; i++) {
-            count = i;
-
-        }
-
+        int count = character.getEpisode().length; 
         origin.setName(location.getName());
         origin.setUrl(location.getUrl());
         origin.setDimension(location.getDimension());
