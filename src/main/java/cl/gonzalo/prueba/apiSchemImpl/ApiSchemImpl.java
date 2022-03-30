@@ -1,5 +1,6 @@
-package cl.gonzalo.prueba.services;
+package cl.gonzalo.prueba.apiSchemImpl;
 
+import cl.gonzalo.prueba.apiConService.ApiConServiceImpl;
 import cl.gonzalo.prueba.model.Characters;
 import cl.gonzalo.prueba.model.Location;
 import cl.gonzalo.prueba.model.Origin;

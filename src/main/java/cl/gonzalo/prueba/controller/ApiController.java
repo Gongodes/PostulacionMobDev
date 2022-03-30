@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import cl.gonzalo.prueba.model.Root;
 
-import cl.gonzalo.prueba.services.ApiSchemImpl;
+import cl.gonzalo.prueba.apiSchemImpl.ApiSchemImpl;
 
 @RestController
 @RequestMapping("/api")

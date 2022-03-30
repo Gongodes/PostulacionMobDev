@@ -1,5 +1,6 @@
-package cl.gonzalo.prueba.services;
+package cl.gonzalo.prueba.apiConService;
 
+import cl.gonzalo.prueba.apiConService.ApiConServiceChar;
 import java.util.Arrays;
 
 import org.springframework.http.HttpEntity;

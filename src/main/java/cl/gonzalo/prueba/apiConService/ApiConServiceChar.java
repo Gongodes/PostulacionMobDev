@@ -1,4 +1,4 @@
-package cl.gonzalo.prueba.services;
+package cl.gonzalo.prueba.apiConService;
 
 import cl.gonzalo.prueba.model.Characters;
 import cl.gonzalo.prueba.model.Location;
